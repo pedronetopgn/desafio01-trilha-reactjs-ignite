@@ -1,4 +1,4 @@
-import { useState, MouseEvent } from 'react'
+import { useState } from 'react'
 
 import '../styles/tasklist.scss'
 
